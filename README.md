@@ -1,101 +1,111 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180"/>
 
-# Yo! I'm **Durgaprasad** 🚀
+# 🚀 Durgaprasad Vulla
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2800&color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Java+%7C+React+%7C+Node;Building+Crazy+Side+Projects;DSA+Grind+Mode+ON+%F0%9F%94%A5" />
+###  JavaScript • MERN • Python
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2800&color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Java+%7C+MERN+%7C+Python;Backend+Focused;DSA+Grind+Mode+ON+🔥" />
 
 </div>
 
 ---
 
-## 🧋 whoami
+## 🧠 About Me
 
-- 🧠 Brain runs on → `Java + React + Coffee`
-- 🌱 Currently grinding → **DSA + Backend + System Design**
-- 💻 Building → AI tools, web apps & random 2AM ideas  
-- 🎯 Mission → Become top 1% dev before 25  
-- ⚡ Superpower → fixing bugs I created  
-- 🕉 Side quest → Krishna AI project
-
----
-
-## 💀 Tech Stack
-
-### Frontend Vibes
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![Tailwind](https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss)
-
-### Backend Energy
-![Node](https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
-![Mongo](https://img.shields.io/badge/MongoDB-023430?style=for-the-badge&logo=mongodb)
-
-### Weapons
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![VSCode](https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visualstudiocode)
+- 🎓 B.Tech (ECE)
+- 💻 Full Stack Developer focused on **scalable backend systems**
+- 🧠 Strong in **DSA (python)**
+- ⚙️ Building production-ready MERN applications
+- 🐍 Exploring Python for automation & AI tools
+- 🎯 Goal → Become top 1% backend engineer
 
 ---
 
-## 📊 Dev Stats (no cap)
+## 🛠 Tech Stack
+
+### 💻 Languages
+- JavaScript
+- Python
+
+### 🌐 Frontend
+- React.js
+- HTML5
+- CSS3
+- Tailwind CSS
+
+### ⚙️ Backend
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+
+### 🗄 Database
+- MongoDB
+- Mongoose
+
+### 🧰 Tools
+- Git & GitHub
+- VS Code
+- Postman
+- MongoDB Atlas
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=24durgaprasad&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=24durgaprasad&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=24durgaprasad&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=24durgaprasad&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🧩 LeetCode Grind
+## 🧩 DSA Progress
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/24durgaprasad?theme=dark&font=Poppins&ext=heatmap"/>
 </p>
 
+- Pattern-based learning
+- Java solutions
+- Interview-focused preparation
+
 ---
 
-## 🚧 My Projects (Main Character Arc)
+## 🚀 Featured Projects
 
-### 🗓 Schedulo – Calendly Clone  
-> React • Node • Mongo  
-- Real-time bookings  
-- Calendar integrations  
-- Auth flows
+### 🗓 Schedulo – Booking System (MERN)
+- Authentication & protected routes
+- Real-time slot handling
+- RESTful architecture
 
-### 💼 Job Portal  
-> MERN Stack  
-- Filters + search  
-- Clerk auth  
+### 💼 Job Portal (MERN)
+- Advanced search & filtering
+- Secure auth
 - Responsive UI
 
-### 🤖 Krishna AI  
-> AI Chatbot  
-- Spiritual assistant  
-- Context memory  
-- Custom UI theme
-
-### 📚 Striver DSA Repo  
-> Daily problems + notes  
-- Java solutions  
-- Patterns  
-- Revision sheets
-
-👉 More inside my repos like easter eggs 🧪
+### 🤖 Krishna AI
+- AI chatbot project
+- Context-based responses
+- Custom UI
 
 ---
 
-## 🎧 Dev Mood
+## 🎯 2026 Focus
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31bq7y5&cover_image=true&theme=default"/>
+- Advanced Backend Engineering  
+- System Design Fundamentals  
+- 500+ DSA problems  
+- Build scalable SaaS projects  
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Connect
 
 <p align="center">
 
@@ -112,8 +122,9 @@
 ---
 
 <div align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 
-### “If it works, don’t touch it.  
-If it doesn’t, blame cache.” 😌
+### 💬 Philosophy
+
+Code. Break. Debug. Scale. Repeat.
+
 </div>
