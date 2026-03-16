@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180"/>
 
 # 🚀 Durgaprasad Vulla
 
-###  JavaScript • MERN • Python
+### ⚙️ Backend-Focused Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2800&color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Java+%7C+MERN+%7C+Python;Backend+Focused;DSA+Grind+Mode+ON+🔥" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2800&color=00F7FF&center=true&vCenter=true&lines=Backend+Engineer+in+Progress;MERN+Stack+Developer;Building+Scalable+Systems;Shipping+Real+Projects+🚀" />
 
 </div>
 
@@ -14,98 +14,108 @@
 
 ## 🧠 About Me
 
-- 🎓 B.Tech (ECE)
-- 💻 Full Stack Developer focused on **scalable backend systems**
-- 🧠 Strong in **DSA (python)**
-- ⚙️ Building production-ready MERN applications
-- 🐍 Exploring Python for automation & AI tools
-- 🎯 Goal → Become top 1% backend engineer
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+
+* 🎓 B.Tech (ECE)
+* 💻 Backend-focused Full Stack Developer
+* ⚙️ Love building **scalable & production-ready systems**
+* 🔐 Skilled in **authentication, APIs, and backend architecture**
+* 🐍 Using Python for **automation & backend tools**
+* 🚀 Goal → Become a **top 1% backend engineer**
 
 ---
 
 ## 🛠 Tech Stack
 
+<div align="center">
+
 ### 💻 Languages
-- JavaScript
-- Python
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge\&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge\&logo=python)
 
 ### 🌐 Frontend
-- React.js
-- HTML5
-- CSS3
-- Tailwind CSS
 
-### ⚙️ Backend
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
+![React](https://img.shields.io/badge/React-000?style=for-the-badge\&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge\&logo=css3)
+![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge\&logo=tailwindcss)
+
+### ⚙️ Backend (Core 💪)
+
+![Node](https://img.shields.io/badge/Node.js-000?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge\&logo=express)
+![JWT](https://img.shields.io/badge/JWT-000?style=for-the-badge\&logo=jsonwebtokens)
+![REST API](https://img.shields.io/badge/REST-000?style=for-the-badge)
 
 ### 🗄 Database
-- MongoDB
-- Mongoose
+
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge\&logo=mongodb)
 
 ### 🧰 Tools
-- Git & GitHub
-- VS Code
-- Postman
-- MongoDB Atlas
+
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git)
+![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge\&logo=postman)
+![VS Code](https://img.shields.io/badge/VSCode-000?style=for-the-badge\&logo=visualstudiocode)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
+
+### 🗓 Schedulo – Booking System
+
+* 🔐 Authentication & protected routes
+* ⚡ Real-time slot handling
+* 🧠 Clean REST API architecture
+
+### 💼 Job Portal
+
+* 🔎 Advanced filtering & search
+* 🔐 Secure auth system
+* 📱 Fully responsive UI
+
+### 🤖 Krishna AI
+
+* 💬 Context-based chatbot
+* 🧠 Smart responses
+* 🎨 Custom UI + backend integration
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=24durgaprasad&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=24durgaprasad&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=24durgaprasad&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=24durgaprasad&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🧩 DSA Progress
+## 🧩 Coding & Learning
 
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/24durgaprasad?theme=dark&font=Poppins&ext=heatmap"/>
-</p>
+<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
 
-- Pattern-based learning
-- Java solutions
-- Interview-focused preparation
-
----
-
-## 🚀 Featured Projects
-
-### 🗓 Schedulo – Booking System (MERN)
-- Authentication & protected routes
-- Real-time slot handling
-- RESTful architecture
-
-### 💼 Job Portal (MERN)
-- Advanced search & filtering
-- Secure auth
-- Responsive UI
-
-### 🤖 Krishna AI
-- AI chatbot project
-- Context-based responses
-- Custom UI
+* 🧠 Practicing DSA for **interview readiness**
+* ⚙️ Focus → **Development > DSA**
+* 🚀 Building real-world scalable apps
+* 📈 Learning system design step by step
 
 ---
 
-## 🎯 2026 Focus
+## 🎯 2026 Goals
 
-- Advanced Backend Engineering  
-- System Design Fundamentals  
-- 500+ DSA problems  
-- Build scalable SaaS projects  
+* ⚙️ Advanced Backend Engineering
+* 🏗 System Design (LLD + HLD)
+* 🚀 Build scalable SaaS products
+* 💯 Stay consistent & ship projects
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -125,6 +135,6 @@
 
 ### 💬 Philosophy
 
-Code. Break. Debug. Scale. Repeat.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=2500&color=00F7FF&center=true&vCenter=true&lines=Code.+Break.+Debug.+Scale.+Repeat." />
 
 </div>
