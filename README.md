@@ -1,98 +1,232 @@
 <div align="center">
 
-# Hi, I'm Durgaprasad 👋
+<img src="https://media
+.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" wid
+th="180"/>
 
-**A developer who learns by building. A builder who learns by breaking.**
+# 🚀 Durgaprasad Vulla
+
+### ⚙
+️ Backend-Focused Full Stack Developer
+
+<im
+g src="https://readme-typing-svg.herokuapp.co
+m?font=Poppins&size=22&duration=2800&color=00
+F7FF&center=true&vCenter=true&lines=Backend+E
+ngineer+in+Progress;MERN+Stack+Developer;Buil
+ding+Scalable+Systems;Shipping+Real+Projects+
+🚀" />
 
 </div>
 
 ---
 
-### `$ whoami`
+## 🧠 About Me
 
-```
-A developer who learns by building.
-A builder who learns by breaking.
-Currently trying to become better than yesterday.
+<img
+ align="right" src="https://media.giphy.com/m
+edia/qgQUggAC3Pfv687qPC/giphy.gif" width="260
+"/>
 
-I'm not the guy who started coding at 12.
-I'm the guy who got curious, started building things,
-got stuck, fixed them, broke them again, and kept going.
+* 🎓 B.Tech (ECE)
+* 💻 Backend-focus
+ed Full Stack Developer
+* ⚙️ Love buildin
+g **scalable & production-ready systems**
+* �
+��� Skilled in **authentication, APIs, and ba
+ckend architecture**
+* 🐍 Using Python for 
+**automation & backend tools**
+* 🚀 Goal �
+� Become a **top 1% backend engineer**
 
-Today I build web apps, backend systems, mobile apps,
-and whatever else catches my attention.
-```
+---
 
-### 📌 Current State
 
-```yaml
-name: Durgaprasad Vulla
-job: Junior Software Developer
+## 🛠 Tech Stack
 
-interests: [Full Stack, Backend Systems, Linux, Mobile Apps, AI]
-personality: [Curious, Ambitious, Learns fast, Never satisfied with "good enough"]
+<div align="center">
 
-life_cycle: Learn -> Build -> Fail -> Improve -> Repeat
-```
+###
+ 💻 Languages
 
-### 💚 Things I Actually Enjoy
+![JavaScript](https://img.sh
+ields.io/badge/JavaScript-000?style=for-the-b
+adge\&logo=javascript)
+![Python](https://img.
+shields.io/badge/Python-000?style=for-the-bad
+ge\&logo=python)
 
-- Building products from scratch
-- Solving annoying bugs
-- Refactoring code that nobody wants to touch
-- Installing Linux and customizing everything
-- Learning new tech for absolutely no reason
-- Watching a project finally work after hours of debugging
+### 🌐 Frontend
 
-### 🎯 Current Grind
+![React]
+(https://img.shields.io/badge/React-000?style
+=for-the-badge\&logo=react)
+![HTML5](https://
+img.shields.io/badge/HTML5-000?style=for-the-
+badge\&logo=html5)
+![CSS3](https://img.shield
+s.io/badge/CSS3-000?style=for-the-badge\&logo
+=css3)
+![Tailwind](https://img.shields.io/bad
+ge/Tailwind-000?style=for-the-badge\&logo=tai
+lwindcss)
 
-- Becoming a stronger Backend Engineer
-- Learning System Design
-- Improving DSA
-- Building production-ready applications
-- Turning ideas into real products
+### ⚙️ Backend (Core 💪)
 
-### 🛠️ Tech Stack
+![
+Node](https://img.shields.io/badge/Node.js-00
+0?style=for-the-badge\&logo=node.js)
+![Expres
+s](https://img.shields.io/badge/Express.js-00
+0?style=for-the-badge\&logo=express)
+![JWT](h
+ttps://img.shields.io/badge/JWT-000?style=for
+-the-badge\&logo=jsonwebtokens)
+![REST API](h
+ttps://img.shields.io/badge/REST-000?style=fo
+r-the-badge)
 
-**Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+### 🗄 Database
 
-**Backend:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](h
+ttps://img.shields.io/badge/MongoDB-000?style
+=for-the-badge\&logo=mongodb)
 
-**Databases:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+### 🧰 Tools
 
-**Tools:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-### 🧠 A Few Truths
+![Git](https://img.shields.io/badge/Git-000
+?style=for-the-badge\&logo=git)
+![Postman](ht
+tps://img.shields.io/badge/Postman-000?style=
+for-the-badge\&logo=postman)
+![VS Code](https
+://img.shields.io/badge/VSCode-000?style=for-
+the-badge\&logo=visualstudiocode)
 
-```javascript
-if (problem.exists()) {
-    learn();
-    tryAgain();
-}
+</div>
 
-if (project.idea === "crazy") {
-    buildIt();
-}
+--
+-
 
-while (alive) {
-    improve();
-}
-```
+## 🚀 Featured Projects
 
-### 📊 GitHub Stats
+<img src="https
+://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/g
+iphy.gif" width="100%"/>
 
-![Durgaprasad's GitHub stats](https://github-stats-extended.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+### 🗓 Schedulo �
+�� Booking System
 
-### 🤝 Connect With Me
+* 🔐 Authentication & pr
+otected routes
+* ⚡ Real-time slot handling
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/your-twitter)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:you@example.com)
+* 🧠 Clean REST API architecture
+
+### 💼 
+Job Portal
+
+* 🔎 Advanced filtering & searc
+h
+* 🔐 Secure auth system
+* 📱 Fully resp
+onsive UI
+
+### 🤖 Krishna AI
+
+* 💬 Contex
+t-based chatbot
+* 🧠 Smart responses
+* 🎨
+ Custom UI + backend integration
+
+---
+
+## �
+� GitHub Stats
+
+<p align="center">
+  <img src
+="https://github-readme-stats.vercel.app/api?
+username=24durgaprasad&show_icons=true&theme=
+tokyonight&hide_border=true"/>
+  <img src="ht
+tps://github-readme-streak-stats.herokuapp.co
+m/?user=24durgaprasad&theme=tokyonight&hide_b
+order=true"/>
+</p>
+
+---
+
+## 🧩 Coding & Lea
+rning
+
+<img align="right" src="https://media.
+giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" 
+width="250"/>
+
+* 🧠 Practicing DSA for **in
+terview readiness**
+* ⚙️ Focus → **Deve
+lopment > DSA**
+* 🚀 Building real-world sc
+alable apps
+* 📈 Learning system design ste
+p by step
+
+---
+
+## 🎯 2026 Goals
+
+* ⚙️ 
+Advanced Backend Engineering
+* 🏗 System De
+sign (LLD + HLD)
+* 🚀 Build scalable SaaS p
+roducts
+* 💯 Stay consistent & ship project
+s
+
+---
+
+## 🌐 Connect With Me
+
+<p align="ce
+nter">
+
+<a href="https://linkedin.com/in/durg
+aprasad-vulla-428b85231">
+  <img src="https:/
+/img.shields.io/badge/LinkedIn-0A66C2?style=f
+or-the-badge&logo=linkedin"/>
+</a>
+
+<a href="
+mailto:vulla.durgaprasad@gmail.com">
+  <img s
+rc="https://img.shields.io/badge/Gmail-D14836
+?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
 
 ---
 
 <div align="center">
 
-🧠 Curious by default. 💻 Building things that solve problems. 🚀 Breaking, learning, shipping, repeating.
+### 💬 Philoso
+phy
+
+<img src="https://readme-typing-svg.hero
+kuapp.com?font=Poppins&size=18&duration=2500&
+color=00F7FF&center=true&vCenter=true&lines=C
+ode.+Break.+Debug.+Scale.+Repeat." />
 
 </div>
+
+
+
