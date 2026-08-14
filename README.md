@@ -1,237 +1,154 @@
-<div align="center">
+# Hey, I'm Durgaprasad 👋
 
-`
-+================================================================+
-|                                                                |
-|   ____  _  _  ____  _  _  ____  ____  ____                    |
-|  (  _ \( \( )(  _ \( \( )(  _ \(  _ \(  _ \                  |
-|   ) _ < )  (  ) _ < )__() ( ) __/ ) __/ )   /                  |
-|  (____/(_)\_)(____/(__)(__)(__)  (__)  (_) \                   |
-|                                                                |
-|           FULL STACK ALCHEMIST                                 |
-|         Turning caffeine into clean code since 2024            |
-|                                                                |
-+================================================================+
-`
+```bash id="w6z0te"
+$ whoami
 
-### My Face in ASCII
+A developer who learns by building.
+A builder who learns by breaking.
+Currently trying to become better than yesterday.
+```
 
-`
-IIIIIIlllllllIIIIIIlIIIIi}-IIIIIIIIIIII;;;;;;;;;;II;;;;:::::
-IIlllllllllllllIIIIIIIII>?+!IIIIIIIIII;;;;;;;;;;III;I;;;::,,
-IIllllllllllllIIIIIIIIII!~<l;IIIIIIII;;;;;I;;;;II;;;;;:::,,,
-;IIIllllIIIIIIIIIIIIIIII!<>l;;;;;;;;;;;;;;;;;;;;;;;;::,,,,,,
-:;;IIIIIIIIIIIIIIIIIIIIIi-+l;;;;;;;;;;;;;;;;;::::,,,,,""""""
-:;;IIIIIIIIIIIIIIIIIIIII!~<l;;I;;;;II;;;;;;::,,,,""",,"""^^^
-;;:;;;;;;;IIIIIIIIllllII!<>lIIIIIIIIIII;;;::,,,,,"":!il,^```
-"",,::::;;;;;;;;;IIIIIII!<>lIIIIIIIII;;::;IIlI:,;!<-1\-l^``.
-```^^^"I<-+!:"""",:;I;;:I!!;,,,,,,,,"",:l>+?{)?+)jrccjf)-<~;
-'''''^,+jnf}!,```,i-[->i!il:,,,,"^``^,!_1|/tnXYXCOmmUrYO0LQk
-`''''`<)fYn1]:'',<\cYc|[-<l;;l+[_I;!+](ruzYJQZwpboabZvO*WWM$
- `...'I)tf(?;^'^!/QmwwJf[_ii~}cCz/\ucuXJYzYLwhaoMW#hwzYOwwOd
--:^",:i_{1+l:""I{UOmmqLr|{}1/zqbq0OmJcC0vfrXm*WM8&kJn/){11[>
-r_[1|fjjjjt()(11nU0LLJzxt\truUOOwZLZOQCXnjxzCZko#hL/|t}+_~~!
-|xcQdbpOLQdbpdwJczUUYXnf\(/nUOOqZLLmdZXnuvczYJZwOU/\zn)([?[L
-tYLObhqwqpkaaadOXcccYYj|){tCk*MWWMaQCvxjjcXUYCLC|<!>?(]<lIl"
-cYJLLLUQZQCCJCQ0CYuuY0nt{[(0odk*8B#L)[][1txrxuYx~`.'"!~:``"'
-QXvXYnuUOOOZZZwpddpQOdqf]-_ndUjCwod(!II;>}[~~_[{i`'`,>->;,;/
-Cx/frjjuzJLCJCQZwdpqmOJ{!iijdOvYUCx<,:"`,~<;::l<!,,;<}}[<;;.
-(]?-?]][[{11{{)|\|||){?>I!]z#&o0c\){-~!;I!~~<<<~<><-]1|??<i>
-llIIIIIIIli!lll!!!ii!lI;>|m#%$%bXxvXXu/]+~_?[}[?_-}))|\}}[]|
-;;:::::;;IIllIIIIIIlI;;I]q8@@@8opZOmbhmz|]-?][[]?[{111{}}}[-
-l!!!!iii>>>>>>>>ii!!!!l<j*$$BBM#*hdd*8&pX)][[}{{{1))))11{{{(
-+~~~~~+++__++++~~<<<<<>]08$$@Wa#Wobb#BBMO|][[}{11111))1{{}}[
-~++++++__---__++~~~<<>~\h@$$Bopa8Mbp#%@8Z(---?][]?]]]]]??-_+
-<~~~~~~++_+++~~~<>>ii!_cM$$$%bOb&&bwo8@8O)~<~~++~+__++++<>>I
-i<<<~~~+++~<<>>iiii!!!]m%$$$8qLpM8kOh8$8O(~<~~~~~+_____+~<<<
-+---??]][]]]--_+++++~+fa$$$$&ZCwo8o0d%$%wf]-?????]]]]]]]]???
-)11)))(((((()1{{{{}[]{UW$$$$M0Cwh&*0w8$Bbu{}}{{1))))111111{)
-||||\/\\\\\\\(((()){{[b$$$$$BcQqZW%CY$$$#U}1((|\/t//\|\())1)
-`
+I'm not the guy who started coding at 12.
 
-# Hey, I'm **Durgaprasad Vulla**
+I'm the guy who got curious, started building things, got stuck, fixed them, broke them again, and kept going.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&random=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+the+future+one+commit+at+a+time;Backend+is+my+playground+%F0%9F%8F%A1;Open+to+collaborations+%F0%9F%91%8B" alt="Typing SVG" />
+Today I build web applications, backend systems, mobile apps, and whatever else catches my attention.
 
 ---
 
-## **Am I Real?**
+## Current State
 
-| Metric | Status |
-|--------|--------|
-| Coffee Consumed | **infinite liters** |
-| Bugs Created | **More than I fixed** |
-| Sleep Schedule | **What sleep?** |
-| Stack Overflow Visits | **Classified** |
-| Deploys at 3 AM | **Yes. Always.** |
+```yaml id="cwwl24"
+name: Durgaprasad Vulla
 
----
+job: Junior Software Developer
 
-## **The DNA of a Developer**
+interests:
+  - Full Stack Development
+  - Backend Systems
+  - Linux
+  - Mobile Apps
+  - AI
 
-`
-Name    : Durgaprasad Vulla
-Role    : Full Stack Developer + Backend Wizard
-Brain   : 90% Code | 10% memes
-Fuel    : Coffee -> Code -> Bug -> Fix -> Repeat
-Status  : Always learning. Never satisfied.
-Goal    : Build things that make people go "wow"
-`
+personality:
+  - Curious
+  - Ambitious
+  - Sometimes overthinks
+  - Learns fast
+  - Never satisfied with "good enough"
 
----
-
-## **Arsenal of Destruction**
-
-<div align="center">
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Backend (Where the magic happens)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-FF6B6B?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
+life_cycle:
+  Learn -> Build -> Fail -> Improve -> Repeat
+```
 
 ---
 
-## **Projects That Slap**
+## Things I Actually Enjoy
 
-<table>
-<tr>
-<td width="50%">
+```text id="eg2ehw"
+✓ Building products from scratch
 
-### **Devara AI**
-> *Your own AI chatbot built from scratch*
-- OpenAI / Gemini API integration
-- Real-time AI chat
-- Sleek, responsive UI
-- React + Backend magic
+✓ Solving annoying bugs
 
-</td>
-<td width="50%">
+✓ Refactoring code that nobody wants to touch
 
-### **Social Media App**
-> *Twitter clone on steroids*
-- Real-time messaging
-- Followers and discovery
-- Full auth system
-- React Native + Expo
+✓ Installing Linux and customizing everything
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+✓ Learning new tech for absolutely no reason
 
-### **Job Portal**
-> *Where opportunities meet talent*
-- Advanced filtering
-- Secure auth
-- Dashboard analytics
-- Responsive UI
-
-</td>
-<td width="50%">
-
-### **Blood Donation App**
-> *Saving lives, one commit at a time*
-- Donor matching system
-- Location-based
-- Real-time notifications
-- Community impact
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-**[View All Projects](https://github.com/24durgaprasad?tab=repositories)**
-
-</div>
+✓ Watching a project finally work after hours of debugging
+```
 
 ---
 
-## **GitHub Flex Zone**
+## Current Grind
 
-<div align="center">
+```text id="mlz0rn"
+→ Becoming a stronger Backend Engineer
 
-<img src="https://github-readme-stats.vercel.app/api?username=24durgaprasad&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=FF6B6B" />
+→ Learning System Design
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=24durgaprasad&theme=radical&hide_border=true" />
+→ Improving DSA
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24durgaprasad&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF" />
+→ Building production-ready applications
 
-</div>
+→ Turning ideas into real products
+```
 
 ---
 
-## **My Brain on Code**
+## Tech Stack
 
-`
-while (alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
+```text id="vgf7f9"
+Frontend
+├─ React
+├─ Next.js
+└─ Tailwind
+
+Backend
+├─ Node.js
+├─ Express
+└─ REST APIs
+
+Databases
+├─ PostgreSQL
+└─ MongoDB
+
+Tools
+├─ Docker
+├─ Git
+├─ Linux
+└─ VS Code
+```
+
+---
+
+## A Few Truths
+
+```javascript id="xy9wca"
+if (problem.exists()) {
+    learn();
+    tryAgain();
 }
-// Error: sleep() not implemented
-// Warning: eat() called too infrequently
-// Success: code() running...
-`
+
+if (project.idea === "crazy") {
+    buildIt();
+}
+
+while (alive) {
+    improve();
+}
+```
 
 ---
 
-## **Wisdom from the Console**
+## What You'll Find Here
 
-> *"First, solve the problem. Then, write the code."* - John Johnson
-
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* - Martin Fowler
-
-> *"It works on my machine."* - Every developer ever
+* Real projects
+* Experiments
+* Failed ideas
+* Things I'm learning
+* Things I'm proud of
+* Things I will probably rewrite later
 
 ---
 
-## **Let's Build Something Crazy Together**
+## Final Note
+
+```text id="jxbvdy"
+I don't want to be the smartest developer in the room.
+
+I want to be the developer who keeps learning,
+keeps building,
+and never stops improving.
+```
 
 <div align="center">
 
-<a href="https://linkedin.com/in/durgaprasad-vulla-428b85231">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### 🧠 Curious by default.
 
-<a href="mailto:vulla.durgaprasad@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+### 💻 Building things that solve problems.
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&random=true&width=500&lines=Thanks+for+visiting!+Star+if+you+like+what+you+see" alt="Typing SVG" />
+### 🚀 Breaking, learning, shipping, repeating.
 
 </div>
