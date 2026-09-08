@@ -1,140 +1,181 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180"/>
+# Durgaprasad Vulla
 
-# 🚀 Durgaprasad Vulla
+**Backend-focused Full Stack Developer**
 
-### ⚙️ Backend-Focused Full Stack Developer
+Building APIs, backend systems and products that are
+**fast · reliable · scalable**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2800&color=00F7FF&center=true&vCenter=true&lines=Backend+Engineer+in+Progress;MERN+Stack+Developer;Building+Scalable+Systems;Shipping+Real+Projects+🚀" />
+<br/>
 
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend+Engineer+in+Progress;MERN+Stack+Developer;System+Design+Enthusiast;Building+%26+Shipping+Real+Products"/>
 
----
-
-## 🧠 About Me
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
-
-* 🎓 B.Tech (ECE)
-* 💻 Backend-focused Full Stack Developer
-* ⚙️ Love building **scalable & production-ready systems**
-* 🔐 Skilled in **authentication, APIs, and backend architecture**
-* 🐍 Using Python for **automation & backend tools**
-* 🚀 Goal → Become a **top 1% backend engineer**
-
----
-
-## 🛠 Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge\&logo=javascript)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge\&logo=python)
-
-### 🌐 Frontend
-
-![React](https://img.shields.io/badge/React-000?style=for-the-badge\&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge\&logo=css3)
-![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge\&logo=tailwindcss)
-
-### ⚙️ Backend (Core 💪)
-
-![Node](https://img.shields.io/badge/Node.js-000?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge\&logo=express)
-![JWT](https://img.shields.io/badge/JWT-000?style=for-the-badge\&logo=jsonwebtokens)
-![REST API](https://img.shields.io/badge/REST-000?style=for-the-badge)
-
-### 🗄 Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge\&logo=mongodb)
-
-### 🧰 Tools
-
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git)
-![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge\&logo=postman)
-![VS Code](https://img.shields.io/badge/VSCode-000?style=for-the-badge\&logo=visualstudiocode)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
-
-### 🗓 Schedulo – Booking System
-
-* 🔐 Authentication & protected routes
-* ⚡ Real-time slot handling
-* 🧠 Clean REST API architecture
-
-### 💼 Job Portal
-
-* 🔎 Advanced filtering & search
-* 🔐 Secure auth system
-* 📱 Fully responsive UI
-
-### 🤖 Krishna AI
-
-* 💬 Context-based chatbot
-* 🧠 Smart responses
-* 🎨 Custom UI + backend integration
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=24durgaprasad&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=24durgaprasad&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🧩 Coding & Learning
-
-<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
-
-* 🧠 Practicing DSA for **interview readiness**
-* ⚙️ Focus → **Development > DSA**
-* 🚀 Building real-world scalable apps
-* 📈 Learning system design step by step
-
----
-
-## 🎯 2026 Goals
-
-* ⚙️ Advanced Backend Engineering
-* 🏗 System Design (LLD + HLD)
-* 🚀 Build scalable SaaS products
-* 💯 Stay consistent & ship projects
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
+<br/><br/>
 
 <a href="https://linkedin.com/in/durgaprasad-vulla-428b85231">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=00F7FF"/>
 </a>
-
+&nbsp;
 <a href="mailto:vulla.durgaprasad@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=00F7FF"/>
+</a>
+&nbsp;
+<a href="https://github.com/24durgaprasad">
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=00F7FF"/>
 </a>
 
-</p>
+</div>
+
+<br/>
+
+---
+
+## 01 — About
+
+I'm a **Backend-Focused Full Stack Developer** interested in how software works beyond the UI.
+
+I enjoy designing APIs, working with databases, building authentication systems, debugging production problems and gradually learning how to build systems that can scale.
+
+```text
+Currently
+──────────────────────────────────────────────
+
+Focus       Backend Engineering
+Stack       Node.js · Express · MongoDB · React
+Learning    System Design · DSA · Distributed Systems
+Goal        Become a world-class Backend Engineer
+```
+
+---
+
+## 02 — Engineering Stack
+
+<div align="center">
+
+### Core
+
+<img src="https://skillicons.dev/icons?i=js,python,nodejs,express,react,nextjs,mongodb,postgres&theme=dark"/>
+
+<br/><br/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,linux&theme=dark"/>
+
+</div>
+
+<br/>
+
+| Area               | Technologies                        |
+| :----------------- | :---------------------------------- |
+| **Languages**      | JavaScript · Python                 |
+| **Frontend**       | React · Next.js · Tailwind CSS      |
+| **Backend**        | Node.js · Express · REST APIs · JWT |
+| **Databases**      | MongoDB · PostgreSQL                |
+| **Infrastructure** | Linux · Docker · Git                |
+| **Development**    | Postman · VS Code                   |
+
+---
+
+## 03 — Selected Work
+
+### Schedulo
+
+**Booking & Scheduling Platform**
+
+A full-stack scheduling system focused on reliable booking workflows and backend architecture.
+
+`Authentication` `REST API` `Scheduling` `Real-time`
+
+---
+
+### Job Portal
+
+**Recruitment Platform**
+
+A responsive job platform built around search, filtering, authentication and user workflows.
+
+`React` `Authentication` `Search` `Filtering`
+
+---
+
+### Krishna AI
+
+**Context-Aware AI Assistant**
+
+An AI-powered application combining conversational interactions with a custom frontend and backend.
+
+`AI` `API Integration` `Context` `Full Stack`
+
+---
+
+## 04 — What I'm Building Towards
+
+```text
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│   Backend Engineering                              │
+│   ───────────────────                              │
+│   APIs · Authentication · Caching · Queues         │
+│                                                    │
+│   System Design                                    │
+│   ─────────────                                    │
+│   LLD · HLD · Scalability · Distributed Systems    │
+│                                                    │
+│   Problem Solving                                  │
+│   ───────────────                                  │
+│   Data Structures · Algorithms · DSA               │
+│                                                    │
+└────────────────────────────────────────────────────┘
+```
+
+My current approach:
+
+**Build → Break → Understand → Improve → Ship**
+
+---
+
+## 05 — GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=24durgaprasad&show_icons=true&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=00F7FF&text_color=AAAAAA&rank_icon=github"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=24durgaprasad&hide_border=true&background=00000000&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+
+</div>
+
+---
+
+## 06 — 2026
+
+```text
+01  Deepen backend fundamentals
+02  Learn system design
+03  Build production-grade systems
+04  Improve DSA & problem solving
+05  Ship consistently
+```
+
+> **Don't just write code. Understand the system behind it.**
 
 ---
 
 <div align="center">
 
-### 💬 Philosophy
+### Let's build something.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=2500&color=00F7FF&center=true&vCenter=true&lines=Code.+Break.+Debug.+Scale.+Repeat." />
+<br/>
+
+<a href="mailto:vulla.durgaprasad@gmail.com">
+<img src="https://img.shields.io/badge/GET_IN_TOUCH-00F7FF?style=for-the-badge&logoColor=black"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=80&section=footer"/>
 
 </div>
