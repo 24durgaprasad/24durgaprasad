@@ -9,20 +9,20 @@ Building APIs, backend systems and products that are
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend+Engineer+in+Progress;MERN+Stack+Developer;System+Design+Enthusiast;Building+%26+Shipping+Real+Products"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Backend+Engineer+in+Progress;MERN+Stack+Developer;System+Design+Enthusiast;Building+%26+Shipping+Real+Products"/>
 
 <br/><br/>
 
 <a href="https://linkedin.com/in/durgaprasad-vulla-428b85231">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=8B5CF6"/>
 </a>
 &nbsp;
 <a href="mailto:vulla.durgaprasad@gmail.com">
-<img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=8B5CF6"/>
 </a>
 &nbsp;
 <a href="https://github.com/24durgaprasad">
-<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=8B5CF6"/>
 </a>
 
 </div>
@@ -35,7 +35,7 @@ Building APIs, backend systems and products that are
 
 I'm a **Backend-Focused Full Stack Developer** interested in how software works beyond the UI.
 
-I enjoy designing APIs, working with databases, building authentication systems, debugging production problems and gradually learning how to build systems that can scale.
+I enjoy designing APIs, working with databases, building authentication systems, debugging production problems and learning how to build systems that scale.
 
 ```text
 Currently
@@ -86,7 +86,7 @@ Goal        Become a world-class Backend Engineer
 
 A full-stack scheduling system focused on reliable booking workflows and backend architecture.
 
-`Authentication` `REST API` `Scheduling` `Real-time`
+`Authentication` · `REST API` · `Scheduling` · `Real-time`
 
 ---
 
@@ -96,7 +96,7 @@ A full-stack scheduling system focused on reliable booking workflows and backend
 
 A responsive job platform built around search, filtering, authentication and user workflows.
 
-`React` `Authentication` `Search` `Filtering`
+`React` · `Authentication` · `Search` · `Filtering`
 
 ---
 
@@ -106,29 +106,33 @@ A responsive job platform built around search, filtering, authentication and use
 
 An AI-powered application combining conversational interactions with a custom frontend and backend.
 
-`AI` `API Integration` `Context` `Full Stack`
+`AI` · `API Integration` · `Context` · `Full Stack`
 
 ---
 
-## 04 — What I'm Building Towards
+## 04 — Engineering Direction
 
-```text
-┌────────────────────────────────────────────────────┐
-│                                                    │
-│   Backend Engineering                              │
-│   ───────────────────                              │
-│   APIs · Authentication · Caching · Queues         │
-│                                                    │
-│   System Design                                    │
-│   ─────────────                                    │
-│   LLD · HLD · Scalability · Distributed Systems    │
-│                                                    │
-│   Problem Solving                                  │
-│   ───────────────                                  │
-│   Data Structures · Algorithms · DSA               │
-│                                                    │
-└────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+### Backend Engineering
+
+`APIs` · `Authentication` · `Caching` · `Queues` · `Performance`
+
+<br/>
+
+### System Design
+
+`LLD` · `HLD` · `Scalability` · `Distributed Systems`
+
+<br/>
+
+### Problem Solving
+
+`Data Structures` · `Algorithms` · `DSA`
+
+</div>
+
+<br/>
 
 My current approach:
 
@@ -140,11 +144,11 @@ My current approach:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=24durgaprasad&show_icons=true&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=00F7FF&text_color=AAAAAA&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api?username=24durgaprasad&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=AAAAAA&rank_icon=github"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=24durgaprasad&hide_border=true&background=00000000&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=24durgaprasad&hide_border=true&background=00000000&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
 </div>
 
@@ -171,11 +175,11 @@ My current approach:
 <br/>
 
 <a href="mailto:vulla.durgaprasad@gmail.com">
-<img src="https://img.shields.io/badge/GET_IN_TOUCH-00F7FF?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/GET_IN_TOUCH-8B5CF6?style=for-the-badge&logoColor=FFFFFF"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=80&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=70&section=footer"/>
 
 </div>
