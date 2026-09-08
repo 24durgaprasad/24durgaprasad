@@ -1,146 +1,145 @@
 <div align="center">
 
 ```text
-██████╗ ██╗   ██╗██████╗  ██████╗  █████╗
-██╔══██╗██║   ██║██╔══██╗██╔════╝ ██╔══██╗
-██║  ██║██║   ██║██████╔╝██║  ███╗███████║
-██║  ██║██║   ██║██╔══██╗██║   ██║██╔══██║
-██████╔╝╚██████╔╝██║  ██║╚██████╔╝██║  ██║
-╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
-
-██████╗ ██████╗  █████╗ ███████╗ █████╗ ██████╗
-██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔══██╗
-██████╔╝██████╔╝███████║███████╗███████║██║  ██║
-██╔═══╝ ██╔═══╝ ██╔══██║╚════██║██╔══██║██║  ██║
-██║     ██║     ██║  ██║███████║██║  ██║██████╔╝
-╚═╝     ╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝
-
-██╗   ██╗██╗   ██╗██╗     ██╗      █████╗
-██║   ██║██║   ██║██║     ██║     ██╔══██╗
-██║   ██║██║   ██║██║     ██║     ███████║
-╚██╗ ██╔╝██║   ██║██║     ██║     ██╔══██║
- ╚████╔╝ ╚██████╔╝███████╗███████╗██║  ██║
-  ╚═══╝   ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ██████╗ ██╗   ██╗██████╗  ██████╗  █████╗                ║
+║   ██╔══██╗██║   ██║██╔══██╗██╔════╝ ██╔══██╗               ║
+║   ██║  ██║██║   ██║██████╔╝██║  ███╗███████║               ║
+║   ██║  ██║██║   ██║██╔══██╗██║   ██║██╔══██║               ║
+║   ██████╔╝╚██████╔╝██║  ██║╚██████╔╝██║  ██║               ║
+║   ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝               ║
+║                                                              ║
+║        ██████╗ ██████╗  █████╗ ███████╗ █████╗ ██████╗     ║
+║        ██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔══██╗    ║
+║        ██████╔╝██████╔╝███████║███████╗███████║██║  ██║    ║
+║        ██╔═══╝ ██╔═══╝ ██╔══██║╚════██║██╔══██║██║  ██║    ║
+║        ██║     ██║     ██║  ██║███████║██║  ██║██████╔╝    ║
+║        ╚═╝     ╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝     ║
+║                                                              ║
+║        ██╗   ██╗██╗   ██╗██╗     ██╗      █████╗           ║
+║        ██║   ██║██║   ██║██║     ██║     ██╔══██╗          ║
+║        ██║   ██║██║   ██║██║     ██║     ███████║          ║
+║        ╚██╗ ██╔╝██║   ██║██║     ██║     ██╔══██║          ║
+║         ╚████╔╝ ╚██████╔╝███████╗███████╗██║  ██║          ║
+║          ╚═══╝   ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝          ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ```text
-durgaprasad@github:~$ whoami
-
-Backend-Focused Full Stack Developer
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  durgaprasad@github:~$ whoami                                │
+│                                                              │
+│  > Backend-Focused Full Stack Developer                      │
+│                                                              │
+│  durgaprasad@github:~$ echo $STATUS                          │
+│                                                              │
+│  > ONLINE                                                     │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
-
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=flat-square\&labelColor=000000)
-![Focus](https://img.shields.io/badge/FOCUS-BACKEND-00FF41?style=flat-square\&labelColor=000000)
-![Mode](https://img.shields.io/badge/MODE-BUILDING-00FF41?style=flat-square\&labelColor=000000)
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00FF41?style=flat-square\&logo=linkedin\&logoColor=00FF41\&labelColor=000000)](https://www.linkedin.com/in/durgaprasad-vulla-858579393/)
-[![GitHub](https://img.shields.io/badge/GITHUB-00FF41?style=flat-square\&logo=github\&logoColor=00FF41\&labelColor=000000)](https://github.com/durgaprasad24)
-[![Email](https://img.shields.io/badge/EMAIL-00FF41?style=flat-square\&logo=gmail\&logoColor=00FF41\&labelColor=000000)](mailto:durgaprasadvulla24@gmail.com)
 
 </div>
 
 ---
 
 ```text
-durgaprasad@github:~$ cat about.txt
+durgaprasad@github:~$ ./about.sh
 ```
 
-## `01 :: ABOUT`
-
-**Durgaprasad Vulla**
-
-Backend-focused Full Stack Developer building web applications, APIs, and backend systems.
-
-I like understanding what happens **under the hood** — from HTTP requests and database queries to authentication, sockets, system architecture, and production infrastructure.
-
 ```text
-CURRENT INTERESTS
-
-→ Backend Architecture
-→ System Design
-→ Distributed Systems
-→ Database Design
-→ Networking
-→ Scalable Applications
-→ Production Engineering
+┌─[ ABOUT ]─────────────────────────────────────────────────────┐
+│                                                              │
+│  Durgaprasad Vulla                                           │
+│                                                              │
+│  Backend-focused Full Stack Developer building web           │
+│  applications, APIs and backend systems.                     │
+│                                                              │
+│  I enjoy understanding what happens under the hood —         │
+│  from HTTP requests and database queries to authentication,  │
+│  sockets, architecture and production infrastructure.       │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
----
-
 ```text
-durgaprasad@github:~$ ls ./stack
-```
+durgaprasad@github:~$ cat interests.txt
 
-## `02 :: ENGINEERING_STACK`
-
-### `LANGUAGES`
-
-```text
-JavaScript    Python    SQL
-```
-
-### `BACKEND`
-
-```text
-Node.js
-Express.js
-REST APIs
-JWT
-Authentication / Authorization
-WebSockets
-Socket.io
-```
-
-### `FRONTEND`
-
-```text
-React
-Next.js
-HTML5
-CSS3
-Tailwind CSS
-shadcn/ui
-```
-
-### `DATABASES`
-
-```text
-MongoDB
-PostgreSQL
-Mongoose
-Prisma
-```
-
-### `TOOLS & INFRASTRUCTURE`
-
-```text
-Git
-GitHub
-Postman
-VS Code
-Docker
-Linux
+[+] Backend Architecture
+[+] System Design
+[+] Distributed Systems
+[+] Database Design
+[+] Networking
+[+] Scalable Applications
+[+] Production Engineering
 ```
 
 ---
 
 ```text
-durgaprasad@github:~$ ps aux --focus
+durgaprasad@github:~$ tree ./engineering-stack
 ```
 
-## `03 :: CURRENT_FOCUS`
+```text
+engineering-stack/
+│
+├── languages/
+│   ├── JavaScript
+│   ├── Python
+│   └── SQL
+│
+├── backend/
+│   ├── Node.js
+│   ├── Express.js
+│   ├── REST APIs
+│   ├── JWT
+│   ├── Authentication
+│   ├── Authorization
+│   ├── WebSockets
+│   └── Socket.io
+│
+├── frontend/
+│   ├── React
+│   ├── Next.js
+│   ├── HTML5
+│   ├── CSS3
+│   ├── Tailwind CSS
+│   └── shadcn/ui
+│
+├── databases/
+│   ├── MongoDB
+│   ├── PostgreSQL
+│   ├── Mongoose
+│   └── Prisma
+│
+└── tools/
+    ├── Git
+    ├── GitHub
+    ├── Postman
+    ├── VS Code
+    ├── Docker
+    └── Linux
+```
+
+---
 
 ```text
-┌───────────────────────────────┬──────────────┐
-│ AREA                          │ STATUS       │
-├───────────────────────────────┼──────────────┤
-│ Backend Engineering           │ ACTIVE       │
-│ System Design                 │ ACTIVE       │
-│ DSA & Problem Solving         │ ACTIVE       │
-│ Database Architecture         │ ACTIVE       │
-│ Distributed Systems           │ EXPLORING    │
-│ Production Engineering        │ EXPLORING    │
-└───────────────────────────────┴──────────────┘
+durgaprasad@github:~$ systemctl status learning
+```
+
+```text
+● learning.service
+   Loaded: loaded
+   Active: active (running)
+
+   ├── Backend Engineering
+   ├── System Design
+   ├── DSA & Problem Solving
+   ├── Database Architecture
+   ├── Distributed Systems
+   └── Production Engineering
 ```
 
 ---
@@ -149,20 +148,26 @@ durgaprasad@github:~$ ps aux --focus
 durgaprasad@github:~$ cat engineering_mindset.txt
 ```
 
-## `04 :: ENGINEERING_MINDSET`
-
 ```text
-[01] Understand before implementing
-[02] Learn the fundamentals
-[03] Keep architecture simple
-[04] Build real-world use cases
-[05] Debug before rewriting
-[06] Think about scalability
-[07] Write maintainable code
-[08] Learn from production problems
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  [01] Understand before implementing                         │
+│  [02] Learn the fundamentals                                 │
+│  [03] Keep architecture simple                               │
+│  [04] Build real-world systems                               │
+│  [05] Debug before rewriting                                 │
+│  [06] Think about scalability                                │
+│  [07] Write maintainable code                                │
+│  [08] Learn from production problems                         │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-> `Frameworks change. Fundamentals stay.`
+```text
+$ echo "Frameworks change. Fundamentals stay."
+
+Frameworks change. Fundamentals stay.
+```
 
 ---
 
@@ -170,20 +175,28 @@ durgaprasad@github:~$ cat engineering_mindset.txt
 durgaprasad@github:~$ tail -f learning.log
 ```
 
-## `05 :: LEARNING`
-
 ```text
-[+] Backend Engineering
-[+] System Design
-[+] Data Structures & Algorithms
-[+] Database Design
-[+] Networking
-[+] Distributed Systems
-[+] Cloud & Infrastructure
+[INFO] Backend Engineering
+[INFO] System Design
+[INFO] Data Structures & Algorithms
+[INFO] Database Design
+[INFO] Networking
+[INFO] Distributed Systems
+[INFO] Cloud & Infrastructure
 ```
 
 ```text
-READ → BUILD → BREAK → DEBUG → UNDERSTAND → REBUILD
+READ
+  ↓
+BUILD
+  ↓
+BREAK
+  ↓
+DEBUG
+  ↓
+UNDERSTAND
+  ↓
+REBUILD
 ```
 
 ---
@@ -192,20 +205,14 @@ READ → BUILD → BREAK → DEBUG → UNDERSTAND → REBUILD
 durgaprasad@github:~$ cat roadmap.md
 ```
 
-## `06 :: ROADMAP`
-
-### `COMPLETED`
-
 ```text
-[x] Full Stack Development
-[x] REST API Development
-[x] Authentication Systems
-[x] Database Integration
-```
+ROADMAP
 
-### `IN PROGRESS`
+[✓] Full Stack Development
+[✓] REST API Development
+[✓] Authentication Systems
+[✓] Database Integration
 
-```text
 [>] Advanced Backend Engineering
 [>] Low-Level Design / High-Level Design
 [>] Scalable SaaS Architecture
@@ -220,23 +227,21 @@ durgaprasad@github:~$ cat roadmap.md
 durgaprasad@github:~$ git status
 ```
 
-## `07 :: GITHUB`
-
 ```text
 On branch main
 
 Changes being made:
 
-  + learning
-  + building
-  + experimenting
-  + debugging
-  + improving
+  modified:   knowledge
+  modified:   skills
+  modified:   architecture
+  modified:   problem-solving
+  modified:   engineering
+
+nothing to commit.
 
 working tree: ACTIVE
 ```
-
-![GitHub followers](https://img.shields.io/github/followers/durgaprasad24?style=flat-square\&color=00FF41\&labelColor=000000\&label=FOLLOWERS)
 
 ---
 
@@ -244,27 +249,33 @@ working tree: ACTIVE
 durgaprasad@github:~$ cat philosophy.txt
 ```
 
-## `08 :: PHILOSOPHY`
+<div align="center">
 
 ```text
-DON'T JUST WRITE CODE.
-
-UNDERSTAND THE SYSTEM BEHIND IT.
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║              DON'T JUST WRITE CODE.                         ║
+║                                                              ║
+║          UNDERSTAND THE SYSTEM BEHIND IT.                   ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ```text
 CODE
-  ↓
-BREAK
-  ↓
-DEBUG
-  ↓
-UNDERSTAND
-  ↓
-IMPROVE
-  ↓
-REPEAT
+  │
+  ├── BREAK
+  │
+  ├── DEBUG
+  │
+  ├── UNDERSTAND
+  │
+  ├── IMPROVE
+  │
+  └── REPEAT
 ```
+
+</div>
 
 ---
 
@@ -272,21 +283,30 @@ REPEAT
 durgaprasad@github:~$ ./connect.sh
 ```
 
-## `09 :: CONNECT`
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  CONNECTIONS                                                 │
+│                                                              │
+│  GitHub    →  github.com/durgaprasad24                      │
+│  LinkedIn  →  linkedin.com/in/durgaprasad-vulla             │
+│  Email     →  durgaprasadvulla24@gmail.com                  │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge\&logo=linkedin\&logoColor=00FF41\&labelColor=000000)](https://www.linkedin.com/in/durgaprasad-vulla-858579393/)
-[![GitHub](https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge\&logo=github\&logoColor=00FF41\&labelColor=000000)](https://github.com/durgaprasad24)
-[![Email](https://img.shields.io/badge/Email-00FF41?style=for-the-badge\&logo=gmail\&logoColor=00FF41\&labelColor=000000)](mailto:durgaprasadvulla24@gmail.com)
+[GitHub](https://github.com/durgaprasad24) · [LinkedIn](https://www.linkedin.com/in/durgaprasad-vulla-858579393/) · [Email](mailto:durgaprasadvulla24@gmail.com)
 
 ```text
+──────────────────────────────────────────────────────────────
+
 SYSTEM ONLINE
+SESSION ACTIVE
 KEEP BUILDING
 KEEP LEARNING
-```
 
-```text
 durgaprasad@github:~$ _
 ```
 
