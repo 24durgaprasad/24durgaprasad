@@ -1,185 +1,293 @@
 <div align="center">
 
-# Durgaprasad Vulla
+```text
+██████╗ ██╗   ██╗██████╗  ██████╗  █████╗
+██╔══██╗██║   ██║██╔══██╗██╔════╝ ██╔══██╗
+██║  ██║██║   ██║██████╔╝██║  ███╗███████║
+██║  ██║██║   ██║██╔══██╗██║   ██║██╔══██║
+██████╔╝╚██████╔╝██║  ██║╚██████╔╝██║  ██║
+╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
 
-**Backend-focused Full Stack Developer**
+██████╗ ██████╗  █████╗ ███████╗ █████╗ ██████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔══██╗
+██████╔╝██████╔╝███████║███████╗███████║██║  ██║
+██╔═══╝ ██╔═══╝ ██╔══██║╚════██║██╔══██║██║  ██║
+██║     ██║     ██║  ██║███████║██║  ██║██████╔╝
+╚═╝     ╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝
 
-Building APIs, backend systems and products that are
-**fast · reliable · scalable**
+██╗   ██╗██╗   ██╗██╗     ██╗      █████╗
+██║   ██║██║   ██║██║     ██║     ██╔══██╗
+██║   ██║██║   ██║██║     ██║     ███████║
+╚██╗ ██╔╝██║   ██║██║     ██║     ██╔══██║
+ ╚████╔╝ ╚██████╔╝███████╗███████╗██║  ██║
+  ╚═══╝   ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝
+```
 
-<br/>
+```text
+durgaprasad@github:~$ whoami
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Backend+Engineer+in+Progress;MERN+Stack+Developer;System+Design+Enthusiast;Building+%26+Shipping+Real+Products"/>
+Backend-Focused Full Stack Developer
+```
 
-<br/><br/>
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=flat-square\&labelColor=000000)
+![Focus](https://img.shields.io/badge/FOCUS-BACKEND-00FF41?style=flat-square\&labelColor=000000)
+![Mode](https://img.shields.io/badge/MODE-BUILDING-00FF41?style=flat-square\&labelColor=000000)
 
-<a href="https://linkedin.com/in/durgaprasad-vulla-428b85231">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=8B5CF6"/>
-</a>
-&nbsp;
-<a href="mailto:vulla.durgaprasad@gmail.com">
-<img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=8B5CF6"/>
-</a>
-&nbsp;
-<a href="https://github.com/24durgaprasad">
-<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=8B5CF6"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00FF41?style=flat-square\&logo=linkedin\&logoColor=00FF41\&labelColor=000000)](https://www.linkedin.com/in/durgaprasad-vulla-858579393/)
+[![GitHub](https://img.shields.io/badge/GITHUB-00FF41?style=flat-square\&logo=github\&logoColor=00FF41\&labelColor=000000)](https://github.com/durgaprasad24)
+[![Email](https://img.shields.io/badge/EMAIL-00FF41?style=flat-square\&logo=gmail\&logoColor=00FF41\&labelColor=000000)](mailto:durgaprasadvulla24@gmail.com)
 
 </div>
 
-<br/>
-
 ---
 
-## 01 — About
+```text
+durgaprasad@github:~$ cat about.txt
+```
 
-I'm a **Backend-Focused Full Stack Developer** interested in how software works beyond the UI.
+## `01 :: ABOUT`
 
-I enjoy designing APIs, working with databases, building authentication systems, debugging production problems and learning how to build systems that scale.
+**Durgaprasad Vulla**
+
+Backend-focused Full Stack Developer building web applications, APIs, and backend systems.
+
+I like understanding what happens **under the hood** — from HTTP requests and database queries to authentication, sockets, system architecture, and production infrastructure.
 
 ```text
-Currently
-──────────────────────────────────────────────
+CURRENT INTERESTS
 
-Focus       Backend Engineering
-Stack       Node.js · Express · MongoDB · React
-Learning    System Design · DSA · Distributed Systems
-Goal        Become a world-class Backend Engineer
+→ Backend Architecture
+→ System Design
+→ Distributed Systems
+→ Database Design
+→ Networking
+→ Scalable Applications
+→ Production Engineering
 ```
 
 ---
 
-## 02 — Engineering Stack
-
-<div align="center">
-
-### Core
-
-<img src="https://skillicons.dev/icons?i=js,python,nodejs,express,react,nextjs,mongodb,postgres&theme=dark"/>
-
-<br/><br/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,linux&theme=dark"/>
-
-</div>
-
-<br/>
-
-| Area               | Technologies                        |
-| :----------------- | :---------------------------------- |
-| **Languages**      | JavaScript · Python                 |
-| **Frontend**       | React · Next.js · Tailwind CSS      |
-| **Backend**        | Node.js · Express · REST APIs · JWT |
-| **Databases**      | MongoDB · PostgreSQL                |
-| **Infrastructure** | Linux · Docker · Git                |
-| **Development**    | Postman · VS Code                   |
-
----
-
-## 03 — Selected Work
-
-### Schedulo
-
-**Booking & Scheduling Platform**
-
-A full-stack scheduling system focused on reliable booking workflows and backend architecture.
-
-`Authentication` · `REST API` · `Scheduling` · `Real-time`
-
----
-
-### Job Portal
-
-**Recruitment Platform**
-
-A responsive job platform built around search, filtering, authentication and user workflows.
-
-`React` · `Authentication` · `Search` · `Filtering`
-
----
-
-### Krishna AI
-
-**Context-Aware AI Assistant**
-
-An AI-powered application combining conversational interactions with a custom frontend and backend.
-
-`AI` · `API Integration` · `Context` · `Full Stack`
-
----
-
-## 04 — Engineering Direction
-
-<div align="center">
-
-### Backend Engineering
-
-`APIs` · `Authentication` · `Caching` · `Queues` · `Performance`
-
-<br/>
-
-### System Design
-
-`LLD` · `HLD` · `Scalability` · `Distributed Systems`
-
-<br/>
-
-### Problem Solving
-
-`Data Structures` · `Algorithms` · `DSA`
-
-</div>
-
-<br/>
-
-My current approach:
-
-**Build → Break → Understand → Improve → Ship**
-
----
-
-## 05 — GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=24durgaprasad&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=AAAAAA&rank_icon=github"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=24durgaprasad&hide_border=true&background=00000000&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
-
-</div>
-
----
-
-## 06 — 2026
-
 ```text
-01  Deepen backend fundamentals
-02  Learn system design
-03  Build production-grade systems
-04  Improve DSA & problem solving
-05  Ship consistently
+durgaprasad@github:~$ ls ./stack
 ```
 
-> **Don't just write code. Understand the system behind it.**
+## `02 :: ENGINEERING_STACK`
+
+### `LANGUAGES`
+
+```text
+JavaScript    Python    SQL
+```
+
+### `BACKEND`
+
+```text
+Node.js
+Express.js
+REST APIs
+JWT
+Authentication / Authorization
+WebSockets
+Socket.io
+```
+
+### `FRONTEND`
+
+```text
+React
+Next.js
+HTML5
+CSS3
+Tailwind CSS
+shadcn/ui
+```
+
+### `DATABASES`
+
+```text
+MongoDB
+PostgreSQL
+Mongoose
+Prisma
+```
+
+### `TOOLS & INFRASTRUCTURE`
+
+```text
+Git
+GitHub
+Postman
+VS Code
+Docker
+Linux
+```
 
 ---
 
+```text
+durgaprasad@github:~$ ps aux --focus
+```
+
+## `03 :: CURRENT_FOCUS`
+
+```text
+┌───────────────────────────────┬──────────────┐
+│ AREA                          │ STATUS       │
+├───────────────────────────────┼──────────────┤
+│ Backend Engineering           │ ACTIVE       │
+│ System Design                 │ ACTIVE       │
+│ DSA & Problem Solving         │ ACTIVE       │
+│ Database Architecture         │ ACTIVE       │
+│ Distributed Systems           │ EXPLORING    │
+│ Production Engineering        │ EXPLORING    │
+└───────────────────────────────┴──────────────┘
+```
+
+---
+
+```text
+durgaprasad@github:~$ cat engineering_mindset.txt
+```
+
+## `04 :: ENGINEERING_MINDSET`
+
+```text
+[01] Understand before implementing
+[02] Learn the fundamentals
+[03] Keep architecture simple
+[04] Build real-world use cases
+[05] Debug before rewriting
+[06] Think about scalability
+[07] Write maintainable code
+[08] Learn from production problems
+```
+
+> `Frameworks change. Fundamentals stay.`
+
+---
+
+```text
+durgaprasad@github:~$ tail -f learning.log
+```
+
+## `05 :: LEARNING`
+
+```text
+[+] Backend Engineering
+[+] System Design
+[+] Data Structures & Algorithms
+[+] Database Design
+[+] Networking
+[+] Distributed Systems
+[+] Cloud & Infrastructure
+```
+
+```text
+READ → BUILD → BREAK → DEBUG → UNDERSTAND → REBUILD
+```
+
+---
+
+```text
+durgaprasad@github:~$ cat roadmap.md
+```
+
+## `06 :: ROADMAP`
+
+### `COMPLETED`
+
+```text
+[x] Full Stack Development
+[x] REST API Development
+[x] Authentication Systems
+[x] Database Integration
+```
+
+### `IN PROGRESS`
+
+```text
+[>] Advanced Backend Engineering
+[>] Low-Level Design / High-Level Design
+[>] Scalable SaaS Architecture
+[>] Distributed Systems
+[>] Advanced DSA
+[>] Production Infrastructure
+```
+
+---
+
+```text
+durgaprasad@github:~$ git status
+```
+
+## `07 :: GITHUB`
+
+```text
+On branch main
+
+Changes being made:
+
+  + learning
+  + building
+  + experimenting
+  + debugging
+  + improving
+
+working tree: ACTIVE
+```
+
+![GitHub followers](https://img.shields.io/github/followers/durgaprasad24?style=flat-square\&color=00FF41\&labelColor=000000\&label=FOLLOWERS)
+
+---
+
+```text
+durgaprasad@github:~$ cat philosophy.txt
+```
+
+## `08 :: PHILOSOPHY`
+
+```text
+DON'T JUST WRITE CODE.
+
+UNDERSTAND THE SYSTEM BEHIND IT.
+```
+
+```text
+CODE
+  ↓
+BREAK
+  ↓
+DEBUG
+  ↓
+UNDERSTAND
+  ↓
+IMPROVE
+  ↓
+REPEAT
+```
+
+---
+
+```text
+durgaprasad@github:~$ ./connect.sh
+```
+
+## `09 :: CONNECT`
+
 <div align="center">
 
-### Let's build something.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge\&logo=linkedin\&logoColor=00FF41\&labelColor=000000)](https://www.linkedin.com/in/durgaprasad-vulla-858579393/)
+[![GitHub](https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge\&logo=github\&logoColor=00FF41\&labelColor=000000)](https://github.com/durgaprasad24)
+[![Email](https://img.shields.io/badge/Email-00FF41?style=for-the-badge\&logo=gmail\&logoColor=00FF41\&labelColor=000000)](mailto:durgaprasadvulla24@gmail.com)
 
-<br/>
+```text
+SYSTEM ONLINE
+KEEP BUILDING
+KEEP LEARNING
+```
 
-<a href="mailto:vulla.durgaprasad@gmail.com">
-<img src="https://img.shields.io/badge/GET_IN_TOUCH-8B5CF6?style=for-the-badge&logoColor=FFFFFF"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=70&section=footer"/>
+```text
+durgaprasad@github:~$ _
+```
 
 </div>
